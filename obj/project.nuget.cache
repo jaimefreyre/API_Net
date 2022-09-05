@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORcsO9b/3BFBjpAEQJt3qwtnz8iO/hFkj1+PZOyEX6lSENJwC+KT3TikV6arZSpc72AD4XSO/Ag3t+evVQBZsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ezequiel\\source\\repos\\APIC\\APIC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
